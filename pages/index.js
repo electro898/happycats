@@ -31,7 +31,7 @@ export default function Home({posts, events}) {
       </Head>
 
       <div className="container pt-5">
-        <h1 className="text-center pb-5">Positivityminds.com</h1>
+        <h1 className="text-center pb-5">Trendl24.com</h1>
         <div className="row">
           <div className="col-lg-8">
             <h2 className="pb-3">Recent Posts</h2>
